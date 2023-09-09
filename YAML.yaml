@@ -17,4 +17,6 @@ employees:
             - { salary: 5000}
             - { address: USA, pincode: 97845 }
 
+context.config('filename') // notice no extension
+
             
